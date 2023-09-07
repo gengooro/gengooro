@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gengooro
 - 👀 I’m interested in Web, App Development
-- 🌱 I’m currently learning NextJS
+- 🌱 I’m currently learning <NextJS />
 - 💞️ I’m looking to collaborate on Front End Flutter Application
 - 📫 Reach me on Telegram : @DudeItsBakchodi ( Ignore Meaning )
 
